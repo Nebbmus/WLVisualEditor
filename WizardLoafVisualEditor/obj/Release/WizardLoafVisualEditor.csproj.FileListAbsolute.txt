@@ -1,0 +1,10 @@
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\bin\Release\WizardLoafVisualEditor.exe.config
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\bin\Release\WizardLoafVisualEditor.exe
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\bin\Release\WizardLoafVisualEditor.pdb
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.csprojAssemblyReference.cache
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.Form1.resources
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.Properties.Resources.resources
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.csproj.GenerateResource.cache
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.csproj.CoreCompileInputs.cache
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.exe
+C:\Users\charles.wa\Desktop\WLVisualEditor\WizardLoafVisualEditor\WizardLoafVisualEditor\obj\Release\WizardLoafVisualEditor.pdb

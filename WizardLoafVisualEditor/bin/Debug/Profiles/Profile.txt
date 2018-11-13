@@ -1,0 +1,7 @@
+/*Global -float -Fog*/ float fogStart = -31.0;
+/*Global -float -Fog*/ float fogEnd = 20.0;
+/*Global -float -Vignette*/ float vignetteStrength = 6.0;
+/*Global -float -Vignette*/ float vignetteInnerCircle = 6.0;
+/*Global -int -Filter*/ int activeFilter = 3;
+/*Global -float -Filter*/ float filterIntensity = 2.0;
+/*Global -color -Fog*/ float3 fogColor = float3(0.0, 0.0, 0.0);
